@@ -9,7 +9,7 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 ---
 
-## Features
+## Features:
 - **Create**: Add new records to the MongoDB database.  
 - **Read**: Fetch records using GraphQL queries.  
 - **Update**: Modify existing records with GraphQL mutations.  
